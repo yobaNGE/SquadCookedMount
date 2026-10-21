@@ -1,0 +1,23 @@
+{
+    "FileVersion": 3,
+    "Version": 3170706,
+    "VersionName": "0.3.17v6.8.22.3-nullrhi-material-instance-gate",
+    "FriendlyName": "Squad Cooked Mount",
+    "Description": "Cook source-coherent exact ScriptImport adaptation for regenerated stock UFunctions and constructor-created archetypes; no mass LinkerLoad reindex, terminal activation on failure; A1 unchanged.",
+    "Category": "Developer",
+    "CreatedBy": "YobaNGE",
+    "CreatedByURL": "",
+    "DocsURL": "",
+    "MarketplaceURL": "",
+    "SupportURL": "",
+    "EngineVersion": "5.7.4",
+    "CanContainContent": false,
+    "Installed": true,
+    "Modules": [
+        {
+            "Name": "SquadCookedMount",
+            "Type": "Editor",
+            "LoadingPhase": "PostEngineInit"
+        }
+    ]
+}
